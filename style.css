@@ -1,0 +1,18 @@
+.container{
+	margin:; auto; 
+	font-family: Verdana;
+	background-color: lightpink;
+}
+.grid{
+	height: 300px;
+	width: 300px;
+}
+.cv{
+	height: 1500px;
+	width: 1100px;
+	margin: auto;
+}
+.space{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
